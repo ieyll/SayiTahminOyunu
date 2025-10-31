@@ -1,10 +1,11 @@
+# SayıTahminOyunu
 Bu oyun sayesinde dilediğiniz zaman rakamları birbirinden farklı olmak üzere 100 ile 1000 arasında 3 haneli bir sayı tahmin oyunu oynayabilirsiniz. Oyun içerisinde bulunan kontroller doğrultusunda toplam 10 tahmin hakkınız bulunmaktadır. Sayıyı tahmin ettikçe eğer tahmininizdeki sayı veya sayılar gizli sayı içerisinde varsa ve yeri doğruysa "artı" bölümünde kaç sayı doğruysa o yazar. Eğer tahmininizdeki rakamlar gizli sayıdaki rakamlar ile eşleşiyor fakat yeri yanlışsa "eksi" kısmında o kadar rakam yazar. Eğer tahminininiz doğruysa ekranda bir MessageBox ile kazandığınıza dair mesaj alırsınz ve oyun sonlanır, yeniden başlatıp oynayabilirsiniz.
 
 
-# SayıTahminOyunu
+
+
 using System;
 using System.Windows.Forms;
-
 namespace SayıTahminOyunu
 {
     public partial class Form1 : Form

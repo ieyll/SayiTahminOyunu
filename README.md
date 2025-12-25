@@ -49,6 +49,19 @@ SayiTahminOyunu
 
 ---
 
+## 📸 Ekran Görüntüleri
+
+### Giriş Ekranı
+![Giriş Ekranı](screenshots/login.png)
+
+### Oyun Başlangıcı
+![Oyun Başlangıcı](screenshots/game.png)
+
+### Tahmin Ekranı
+![Tahmin Ekranı](screenshots/register.png)
+
+
+
 ## 🎮 Oyun Kuralları
 
 - Bilgisayar, rakamları **birbirinden farklı** gizli bir sayı tutar

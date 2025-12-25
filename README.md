@@ -52,13 +52,13 @@ SayiTahminOyunu
 ## 📸 Ekran Görüntüleri
 
 ### Giriş Ekranı
-![Giriş Ekranı](screenshots/login.png)
+![Giriş Ekranı](SayiTahminOyunu/screenshots/login.png)
 
 ### Oyun Başlangıcı
-![Oyun Başlangıcı](screenshots/game.png)
+![Oyun Başlangıcı](SayiTahminOyunu/screenshots/game.png)
 
 ### Tahmin Ekranı
-![Tahmin Ekranı](screenshots/register.png)
+![Tahmin Ekranı](SayiTahminOyunu/screenshots/register.png)
 
 
 

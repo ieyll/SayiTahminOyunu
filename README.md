@@ -50,16 +50,7 @@ SayiTahminOyunu
 ---
 
 ## 📸 Ekran Görüntüleri
-
-### Giriş Ekranı
-![Giriş Ekranı](SayiTahminOyunu/SayiTahminOyunu/screenshots/login.png)
-
-### Oyun Başlangıcı
-![Oyun Başlangıcı](SayiTahminOyunu/SayiTahminOyunu/screenshots/game.png)
-
-### Tahmin Ekranı
-![Tahmin Ekranı](SayiTahminOyunu/SayiTahminOyunu/screenshots/register.png)
-
+![Giriş](SayiTahminOyunu/screenshots/login.png) | ![Kayıt](SayiTahminOyunu/screenshots/register.png) | ![Oyun](SayiTahminOyunu/screenshots/game.png) |
 
 
 ## 🎮 Oyun Kuralları

@@ -49,10 +49,11 @@ SayiTahminOyunu
 
 ---
 
-## 📸 Ekran Görüntüleri
-![Giriş Ekranı](SayiTahminOyunu/screenshots/login.png)
-![Kayıt Ekranı](SayiTahminOyunu/screenshots/register.png)
-![Oyun Ekranı](SayiTahminOyunu/screenshots/game.png)
+### 📸 Ekran Görüntüleri
+
+| Giriş Ekranı | Kayıt Ekranı | Oyun Ekranı |
+| :---: | :---: | :---: |
+| ![Giriş](SayiTahminOyunu/screenshots/login.png) | ![Kayıt](SayiTahminOyunu/screenshots/register.png) | ![Oyun](SayiTahminOyunu/screenshots/game.png) |
 
 ## 🎮 Oyun Kuralları
 

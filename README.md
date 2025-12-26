@@ -29,8 +29,8 @@ Bu proje, **C# WinForms**, **SQL Server** ve temel **OOP prensipleri** kullanıl
 - **ADO.NET**
 - **Git & GitHub**
 - **Object Oriented Programming (OOP)**
+- **SHA256**
 
----
 
 ## 📂 Proje Yapısı
 
@@ -88,6 +88,16 @@ SayiTahminOyunu
 4.DatabaseHelper.cs içindeki connection string’i güncelleyin
 
 5.Projeyi çalıştırın ▶️
+
+## ⚙️ Veritabanı Kurulumu
+SQL Server Management Studio'yu açın ve bilgisayarınızda arkaplanda çalışan veritabanı server bağlanın.
+Yeni bir veritabanı oluşturun (TahminOyunuDB).
+Veritabanı tablolarım da şu şekilde: 
+| Users Tablosu | Score Tablosu |
+| :---: | :---: |
+| ![User](SayıTahminOyunu/screenshots/userTablosu.png) | ![Score](SayıTahminOyunu/screenshots/scoreTablosu.png) |
+
+
 
 📌 Geliştirme Notları
 

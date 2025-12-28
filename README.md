@@ -78,7 +78,7 @@ SayiTahminOyunu
 
 1. Bu repoyu klonlayın:
    ```bash
-   git clone https://github.com/ieyll/Say-TahminOyunu.git
+   git clone https://github.com/ieyll/SayiTahminOyunu.git
    
 2.Visual Studio ile projeyi açın
 

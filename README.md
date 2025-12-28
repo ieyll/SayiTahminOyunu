@@ -1,9 +1,8 @@
 # 🎯 Sayı Tahmin Oyunu (C# WinForms)
 
-Kullanıcı giriş/ kayıt sistemi bulunan, süre ve hak bazlı çalışan, skorları veritabanına kaydeden
-çok seviyeli bir **Sayı Tahmin Oyunu**.
+Bu projede kullanıcıdan alınan sayıya göre rastgele üretilen bir sayının tahmin edilmesini amaçlayan bir sayı tahmin oyunu geliştirilmiştir.**.
 
-Bu proje, **C# WinForms**, **SQL Server** ve temel **OOP prensipleri** kullanılarak geliştirilmiştir.
+Bu projede, **C# WinForms**, **SQL Server** ve temel **OOP prensipleri** kullanılmıştır..
 
 ---
 
